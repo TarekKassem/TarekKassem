@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekkassem&label=Profile%20views&color=0e75b6&style=flat" alt="tarekkassem" /> </p>
 
-- 🔭 I’m currently working on **Microservices in .Net Core and NodeJS**
+- 🔭 I’m currently working on **Microservices in .Net Core and IoT with Azure**
 
-- 💬 Ask me about **.Net Core, Angular, NodeJS, Azure**
+- 💬 Ask me about **.Net Core, C#, IoT, Azure**
 
 - 📫 How to reach me **tarek.kassem89@gmail.com**
 
